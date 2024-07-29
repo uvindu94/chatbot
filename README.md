@@ -20,4 +20,4 @@ This repository contains a simple PHP chatbot script that uses a percentage-base
 
    ```sh
    git clone https://github.com/uvindu94/chatbot.git
-   cd php-chatbot
+   cd chatbot
