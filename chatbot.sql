@@ -24,7 +24,7 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
--- Table structure for table `responses`
+-- Table structure for table `responses` new
 --
 
 CREATE TABLE `responses` (
